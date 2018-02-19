@@ -8,7 +8,6 @@ public class MyVariables {
 		int c;
 		int d;
 		int e;
-		
 		a = 6;
 		b = 7;
 		c = a + b;
